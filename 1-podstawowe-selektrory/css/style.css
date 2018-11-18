@@ -1,0 +1,30 @@
+p {
+    color: yellow;
+}
+
+#paragraf {
+    background-color: aqua;
+}
+
+.par {
+    background-color: beige;
+}
+
+.lista > li {
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+.lista a {
+    background-color: blue
+}
+
+li#pierwszy ~ li {
+    background-color: blue;
+}
+
+* {
+    background-color: black;
+}
+
+
