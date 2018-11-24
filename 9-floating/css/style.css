@@ -1,0 +1,22 @@
+body {background-color: lime;
+
+}
+
+#truskawka {
+    float: left;
+}
+
+#truskawka2 {
+    float: right;
+    
+}
+
+#truskawka {
+    float: none;
+}
+
+p:last-child {
+    background-color: beige;
+    clear: both;
+}
+
