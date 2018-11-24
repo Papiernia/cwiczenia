@@ -1,0 +1,13 @@
+#truskawka {
+    max-height: 150px;
+    max-width: 150;
+}
+
+#background-img {
+    background-color: antiquewhite;
+    background-image: url("img/truskawka.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    
+}
